@@ -46,13 +46,13 @@ before their actual test.
 ## Screenshots
 
 ### Starting Position
-![Start Screen](screenshots/start-screen.jpeg)
+![Start Screen](start-screen.jpeg)
 
 ### Traffic Light Scenario
-![Traffic Light](screenshots/traffic-light.jpeg)
+![Traffic Light](traffic-light.jpeg)
 
 ### Cockpit View
-![Cockpit View](screenshots/cockpit-view.jpeg)
+![Cockpit View](cockpit-view.jpeg)
 
 ---
 
